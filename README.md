@@ -27,6 +27,3 @@ This project showcases how Logistic Regression and Decision Trees can be applied
 
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request for any enhancements, bug fixes, or improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
