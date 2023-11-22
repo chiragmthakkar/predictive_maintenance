@@ -1,5 +1,10 @@
 # Predictive Maintenance Using Machine Learning
 
+# Work in Progress
+
+:construction: **This section is currently under construction and may be incomplete or subject to change.** :construction:
+
+
 ## Introduction
 This repository contains a machine learning project focused on predictive maintenance. It demonstrates the use of Logistic Regression and Decision Trees to predict potential failures in manufacturing processes. The aim is to enable proactive maintenance strategies, improving efficiency and reducing downtime.
 
@@ -24,6 +29,3 @@ SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the
 
 ## Conclusion
 This project showcases how Logistic Regression and Decision Trees can be applied to solve a predictive maintenance problem. By predicting potential failures in manufacturing processes, these models help in adopting proactive maintenance strategies, thereby enhancing efficiency and reducing operational costs.
-
-## Contributing
-Contributions to this project are welcome. Please fork the repository and submit a pull request for any enhancements, bug fixes, or improvements.
